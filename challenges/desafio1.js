@@ -1,4 +1,4 @@
 // pedrin do chapéu
-// gabi kauser fofo
+// gabi kauer fofo
 // dave boy
 // zulu zen
