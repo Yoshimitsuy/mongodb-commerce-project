@@ -1,4 +1,1 @@
-// pedrin do chapéu
-// gabi kauer fofo
-// dave boy
-// zulu zen
+db.produtos.find().count();
