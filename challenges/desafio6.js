@@ -1,6 +1,6 @@
 db.produtos.find({
   curtidas: {
-    $gt: 10, $lt: 100
+    $gt: 10, $lt: 100,
   },
 }, {
   nome: 1,
